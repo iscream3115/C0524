@@ -139,10 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <Text Include="0526필기.txt" />
     <Text Include="필기_과제.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="strCreate.cpp" />
+    <ClCompile Include="21_pointer2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

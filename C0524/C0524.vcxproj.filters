@@ -16,9 +16,10 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="필기_과제.txt" />
+    <Text Include="0526필기.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="strCreate.cpp">
+    <ClCompile Include="21_pointer2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

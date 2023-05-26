@@ -50,8 +50,6 @@ int main()
 	printf("¹®ÀÚ¿­2 : %s\n", str2);
 
 
-
-
 	return 0;
 }
 
@@ -73,7 +71,6 @@ void myStrcpy(char str2[],char str[])
 	{
 		str2[i] = str[i];
 	}
-
 
 }
 
